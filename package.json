@@ -1,0 +1,23 @@
+{
+  "name": "launchable",
+  "version": "1.0.0",
+  "description": "All the shared logic and helpers used by Launchable Studio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Launchable-Studio/launchable.git"
+  },
+  "author": "Daniel Stuski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Launchable-Studio/launchable/issues"
+  },
+  "homepage": "https://github.com/Launchable-Studio/launchable#readme",
+  "dependencies": {
+    "date-fns": "^2.30.0",
+    "lodash": "^4.17.21"
+  }
+}
