@@ -1,6 +1,6 @@
 {
   "name": "launchable",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "All the shared logic and helpers used by Launchable Studio",
   "main": "index.js",
   "scripts": {
