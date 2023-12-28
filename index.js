@@ -6,6 +6,7 @@ import get from "./src/get";
 import isUndefined from "./src/isUndefined";
 import noop from "./src/noop";
 import nullify from "./src/nullify";
+import { hasAll, hasNone } from "./src/values";
 
 import { dateFromNow } from "./src/dates";
 import { downloadCSV } from "./src/downloadFile";
@@ -18,6 +19,8 @@ export {
   formatCSVData,
   formatNumber,
   get,
+  hasAll,
+  hasNone,
   isUndefined,
   noop,
   nullify,
